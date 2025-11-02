@@ -1,5 +1,5 @@
-streamlit==1.31.0
-databricks-sql-connector==3.0.0
-pandas==2.1.4
-google-generativeai==0.3.0
-beautifulsoup4==4.12.0  # ADD THIS
+streamlit>=1.31.0
+databricks-sql-connector>=3.5.0
+pandas>=2.2.0
+pyarrow>=18.0.0
+beautifulsoup4==4.12.0
